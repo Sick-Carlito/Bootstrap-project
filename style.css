@@ -90,8 +90,6 @@ body {
   z-index: 9999;
 }
 
-
-
 .header-bottom {
   color: #000;
   height: 50px;
@@ -160,7 +158,6 @@ body {
   background-color: #fff;
 }
 
-
 .block-title {
   color: #03030366;
   font-weight: bold;
@@ -216,7 +213,6 @@ h3 {
   font-weight: 700;
   color: #000;
 }
-
 
 .more-stories-part {
   padding-top: 14px;
@@ -370,7 +366,6 @@ h6 {
   height: 15vw;
   overflow: hidden;
 }
-
 
 #image-article1 {
  background-image: url(images/fe-trumpyouth-01.jpg);
