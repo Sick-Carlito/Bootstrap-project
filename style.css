@@ -651,7 +651,7 @@ footer {
   }
 
   #navscroll {
-	padding: 3px 0px;
+    padding: 3px 0px;
   }
 
   #datenav {
@@ -659,28 +659,28 @@ footer {
   }
 
   #signin {
-	font-size: 14px;
-	bottom: 0px;
+    font-size: 14px;
+    bottom: 0px;
   }
 
   #signin a {
-	padding: 6px;
+    padding: 6px;
   }
 
   .fa-chevron-right {
-	display: none !important;
+    display: none !important;
   }
 
   .header-bottom {
-	display: none;
+    display: none;
   }
 
   #right-col {
-	margin: auto;
+    margin: auto;
   }
 
   .content {
-	padding-top: 40px;
+    padding-top: 40px;
   }
 }
 
