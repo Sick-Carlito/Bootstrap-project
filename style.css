@@ -36,6 +36,11 @@ body {
   margin: auto;
 }
 
+img {
+  position: relative;
+  width: 100%;
+}
+
 .logoimg {
   position: absolute;
   width: 396px;
@@ -54,6 +59,14 @@ body {
   margin-left: 20.1px;
   font-size: 19px;
   font-weight: 40%;
+}
+
+.page-nav > li > a {
+  cursor: pointer;
+}
+
+.page-nav > li > a:hover {
+  color: #f72210 !important;
 }
 
 #signin {
@@ -128,14 +141,6 @@ body {
   border-left: 1px solid #d9d9d9;
 }
 
-.page-nav > li > a {
-  cursor: pointer;
-}
-
-.page-nav > li > a:hover {
-  color: #f72210 !important;
-}
-
 .page-nav :first-child,
 .page-nav :last-child {
   border-width: 0.1px;
@@ -164,17 +169,12 @@ body {
 }
 
 article {
-  padding-bottom: 20.1px;
+  padding-bottom: 20px;
 }
 
 .wrap {
   position: relative;
   min-height: 33px;
-}
-
-img {
-  position: relative;
-  width: 100%;
 }
 
 .pic-on {
@@ -184,9 +184,10 @@ img {
   padding: 8px 15px 9px;
   background-color: rgba(255, 255, 255, .9);
   position: absolute;
-  bottom: 0;
-  left: 0;
+  bottom: 0.1;
+  left: 0.1;
   z-index: 1;
+  margin-top: -30px;
 }
 
 h3 {
@@ -198,7 +199,7 @@ h3 {
 .summary {
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 0.1px 0.1px 10.1px;
+  padding: 0.1px 0.1px 10px;
 }
 
 .related {
@@ -248,7 +249,7 @@ h6 {
 }
 
 .byline {
-  color: #555555;
+  color: #555;
   padding: 0.1px;
   margin: 0.1px;
 }
@@ -258,7 +259,7 @@ h6 {
 }
 
 .article-info {
-  padding: 20.1px 0.1px;
+  padding: 20px 0.1px;
 }
 
 #sponsored {
