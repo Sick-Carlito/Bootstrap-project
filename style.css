@@ -303,9 +303,9 @@ h6 {
   display: block;
   max-width: 29px;
   height: 28px;
-  background: 
-   url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain
-   no-repeat #f72210;
+  background:
+    url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
   margin-right: 10.1px;
 }
 
@@ -350,9 +350,9 @@ h6 {
   width: 8px;
   height: 14px;
   margin-left: 10.1px;
-  background: 
-   url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg)
-   center/contain no-repeat;
+  background:
+    url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg)
+    center/contain no-repeat;
 }
 
 .part-title {
