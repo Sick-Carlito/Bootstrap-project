@@ -640,14 +640,14 @@ footer {
   }
 
   svg {
-	    margin-left:10px;
-	    height: 70px;
-	    width: 150px;
-	    margin-top: -10px;
+    margin-left:10px;
+	height: 70px;
+	width: 150px;
+	margin-top: -10px;
   }
 
   .fa-bars {
-	color: #fff;
+    color: #fff;
   }
 
   #navscroll {
@@ -655,7 +655,7 @@ footer {
   }
 
   #datenav {
-	display: none;
+    display: none;
   }
 
   #signin {
@@ -685,19 +685,19 @@ footer {
 }
 
 @media (max-width: 767px) {
-	#image {
-	  width: 258px;
-	}
+  #image {
+    width: 258px;
+  }
 
-	.image-article {
-	  height: 52vw;
-	}
+  .image-article {
+    height: 52vw;
+  }
 
-	#image-article7 {
-	  height: 52vw;
-	}
+  #image-article7 {
+    height: 52vw;
+  }
 
-	.media-icons {
-	  text-align: left;
-	}
+  .media-icons {
+    text-align: left;
+  }
 }
