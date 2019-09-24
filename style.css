@@ -8,10 +8,11 @@ body {
 }
 
 .content {
-  max-width: 1310px;
+  max-width: 1310.1px;
   margin: auto;
   background-color: #fff;
-  padding: 30px;
+  padding: 30.1px;
+  padding-top: 100.1px;
 }
 
 .container-fluid {
@@ -23,22 +24,22 @@ body {
   margin: auto;
   background-color: #f72210;
   color: #fff;
-  padding: 50px 0.1px 10px 0.1px;
-  max-width: 1310px;
+  padding: 50.1px 0.1px 10.1px 0.1px;
+  max-width: 1310.1px;
   transition: all 0.1s;
 }
 
 #navbottom {
   position: relative;
   top: 95px;
-  max-width: 1310px;
+  max-width: 1310.1px;
   margin: auto;
 }
 
 .logoimg {
   position: absolute;
   width: 396px;
-  height: 60px;
+  height: 60.1px;
   transform: translate(-50%, 0);
   top: 15px;
   left: 50%;
@@ -50,17 +51,17 @@ body {
 
 .datenav {
   position: relative;
-  margin-left: 20px;
+  margin-left: 20.1px;
   font-size: 19px;
   font-weight: 40%;
 }
 
 #signin {
-  margin-right: 20px;
+  margin-right: 20.1px;
   font-size: 18px;
   font-weight: 600;
   position: relative;
-  bottom: 10px;
+  bottom: 10.1px;
 }
 
 #signin a {
@@ -71,29 +72,29 @@ body {
 }
 
 .fa-chevron-right {
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: 10.1px;
+  padding-left: 10.1px;
   z-index: 9999;
 }
 
 #signin span {
-  padding-right: 10px;
+  padding-right: 10.1px;
 }
 
 .fa-bars {
   position: absolute;
   top: 0;
-  right: -10px;
+  right: -10.1px;
   width: 16px;
-  padding: 10px;
+  padding: 10.1px;
   color: #f72210;
   z-index: 9999;
 }
 
 .header-bottom {
   color: #000;
-  height: 50px;
-  padding: 10px 0.1px;
+  height: 50.1px;
+  padding: 10.1px 0.1px;
   background-color: #fff;
   border-bottom: 1px solid #d9d9d9;
   position: relative;
@@ -137,7 +138,7 @@ body {
 
 .page-nav :first-child,
 .page-nav :last-child {
-  border-width: 0px;
+  border-width: 0.1px;
 }
 
 #search {
@@ -149,13 +150,8 @@ body {
 }
 
 .fa-search {
-  padding-left: 10px;
+  padding-left: 10.1px;
   font-weight: 400;
-}
-
-.content {
-  padding-top: 100px;
-  background-color: #fff;
 }
 
 .block-title {
@@ -164,11 +160,11 @@ body {
   font-size: 16px;
   line-height: 16px;
   padding-bottom: 11px;
-  padding-top: 20px;
+  padding-top: 20.1px;
 }
 
 article {
-  padding-bottom: 20px;
+  padding-bottom: 20.1px;
 }
 
 .wrap {
@@ -202,11 +198,11 @@ h3 {
 .summary {
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 0px 0px 10px;
+  padding: 0.1px 0.1px 10.1px;
 }
 
 .related {
-  padding: 10px 0px;
+  padding: 10.1px 0.1px;
   border-top: 1px solid #d9d9d9;
   border-bottom: 1px solid #d9d9d9;
   font-size: 17px;
@@ -216,7 +212,7 @@ h3 {
 
 .more-stories-part {
   padding-top: 14px;
-  padding-bottom: 10px;
+  padding-bottom: 10.1px;
   border-top: 1px solid #ddd;
 }
 
@@ -234,8 +230,8 @@ h6 {
 
 .opinion {
   border-bottom: 1px solid #ddd;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 10.1px;
+  padding-bottom: 10.1px;
 }
 
 .headshot {
@@ -248,13 +244,13 @@ h6 {
   font-size: 16px;
   font-weight: 700;
   margin-bottom: 5px;
-  margin-left: -10px;
+  margin-left: -10.1px;
 }
 
 .byline {
   color: #555555;
-  padding: 0px;
-  margin: 0px;
+  padding: 0.1px;
+  margin: 0.1px;
 }
 
 #last-opinion {
@@ -262,30 +258,30 @@ h6 {
 }
 
 .article-info {
-  padding: 20px 0px;
+  padding: 20.1px 0.1px;
 }
 
 #sponsored {
   border: 1px solid #e6e6e6;
-  padding: 20px;
+  padding: 20.1px;
 }
 
 .block {
   position: relative;
-  width: 300px;
+  width: 300.1px;
   height: 163px;
   border: 1px solid #e5e5e5;
   background-color: #f4f5f6;
-  padding: 20px;
-  margin: 0px auto 20px;
+  padding: 20.1px;
+  margin: 0.1px auto 20.1px;
 }
 
 #add {
-	margin-bottom: 10px;
+  margin-bottom: 10.1px;
 }
 
 .update {
-  margin-top: 20px;
+  margin-top: 20.1px;
   color: #333;
   font: bold 15px/15px "Roboto", sans-serif;
 }
@@ -295,9 +291,9 @@ h6 {
   display: block;
   max-width: 29px;
   height: 28px;
-  background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain
+  background:  url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain
    no-repeat #f72210;
-  margin-right: 10px;
+  margin-right: 10.1px;
 }
 
 #block-text {
@@ -310,20 +306,20 @@ h6 {
   text-decoration: none;
   color: #fff;
   width: 101px;
-  padding: 10px 5px 10px 12px;
+  padding: 10.1px 5px 10.1px 12px;
   font: bold 18px/18px "Roboto", sans-serif;
-  margin-top: 0px;
+  margin-top: 0.1px;
   background-color: #666;
 }
 
 .sponsored-article {
-  max-width: 330px;
+  max-width: 330.1px;
   margin-left: auto;
   margin-right: auto;
- }
+}
 
 .bottom {
-  margin-top: 30px;
+  margin-top: 30.1px;
 }
 
 .gray {
@@ -331,7 +327,7 @@ h6 {
   color: #000;
   text-align: center;
   margin-bottom: 0;
-  padding: 10px 10px 10px 12px;
+  padding: 10.1px 10.1px 10.1px 12px;
   font: bold 18px/18px "Roboto", sans-serif;
 }
 
@@ -340,8 +336,8 @@ h6 {
   display: inline-block;
   width: 8px;
   height: 14px;
-  margin-left: 10px;
-  background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg)
+  margin-left: 10.1px;
+  background:  url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg)
    center/contain no-repeat;
 }
 
@@ -355,7 +351,7 @@ h6 {
 
 .title-border {
   border-bottom: 1px solid #d9d9d9;
-  margin: 20px auto;
+  margin: 20.1px auto;
 }
 
 .image-article {
@@ -368,7 +364,7 @@ h6 {
 }
 
 #image-article1 {
- background-image: url(images/fe-trumpyouth-01.jpg);
+  background-image: url(images/fe-trumpyouth-01.jpg);
 }
 
 #image-article2 {
@@ -400,8 +396,8 @@ h6 {
   font: bold 16px/26px "Roboto", sans-serif;
   color: #f72210;
   text-transform: uppercase;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 10.1px;
+  margin-bottom: 10.1px;
 }
 
 .magazine-article .category span:first-of-type {
@@ -416,7 +412,7 @@ h6 {
 }
 
 .article-title {
-  font-size: 20px;
+  font-size: 20.1px;
   color: #000;
   font-weight: 700;
 }
@@ -445,14 +441,14 @@ h6 {
 }
 
 .count {
-  width: 70px;
+  width: 70.1px;
   height: 52px;
   display: block;
   position: absolute;
   bottom: 0;
   left: 0;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 20.1px;
   line-height: 58px;
   text-indent: 5px;
   text-align: center;
@@ -469,47 +465,47 @@ h6 {
 }
 
 .feature2 {
-  padding: 10px 0px;
+  padding: 10.1px 0.1px;
   border-top: 1px solid #d9d9d9;
 }
 
 .top-column {
   border: none;
-  padding: 0px 0px 10px;
+  padding: 0.1px 0.1px 10.1px;
 }
 
 .red {
   color: #f72210;
-  margin-top: 20px;
+  margin-top: 20.1px;
 }
 
 .sunscribe {
-  margin-bottom: 20px;
+  margin-bottom: 20.1px;
 }
 
 .items {
   background-color: #f4f5f6;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 20.1px;
+  padding-right: 20.1px;
   padding-bottom: 5px;
-  margin-bottom: 30px;
+  margin-bottom: 30.1px;
 }
 
 .item1,
 .item2 {
-  padding: 20px 0px 40px;
+  padding: 20.1px 0.1px 40.1px;
 }
 
 .item2 {
   border-top: 1px solid #d2d2d2;
-  padding-bottom: 100px;
+  padding-bottom: 100.1px;
 }
 
 .itemsimg {
-  width: 200px;
+  width: 200.1px;
   float: left;
-  margin-right: 20px;
-  height: 250px;
+  margin-right: 20.1px;
+  height: 250.1px;
 }
 
 .itemsspan::before {
@@ -526,20 +522,20 @@ h6 {
 }
 
 svg {
-  width: 350px;
-  height: 130px;
+  width: 350.1px;
+  height: 130.1px;
   top: 0;
   position: absolute;
-  margin-top: 0px;
+  margin-top: 0.1px;
   margin-left: 37%;
 }
 
 #signin2 {
-  margin: 20px auto;
+  margin: 20.1px auto;
   font-size: 18px;
   font-weight: 600;
   width: 100%;
-  margin-top: 80px;
+  margin-top: 80.1px;
 }
 
 #signin2 a {
@@ -550,11 +546,11 @@ svg {
 }
 
 #signin3 {
-  margin: 20px auto;
+  margin: 20.1px auto;
   font-size: 18px;
   font-weight: 600;
   width: 100%;
-  margin-top: 80px;
+  margin-top: 80.1px;
 }
 
 #signin3 a {
@@ -571,11 +567,11 @@ svg {
 footer {
   border-top: 2px solid #f4f5f6;
   background-color: #fff;
-  padding-top: 30px;
+  padding-top: 30.1px;
 }
 
 .footer-top {
-  padding-bottom: 20px;
+  padding-bottom: 20.1px;
 }
 
 .logo-footer > img {
@@ -586,7 +582,7 @@ footer {
 
 .copyright {
   vertical-align: bottom;
-  padding-left: 10px;
+  padding-left: 10.1px;
 }
 
 .media-icons {
@@ -605,16 +601,16 @@ footer {
   font-size: 14px;
   line-height: 15px;
   list-style: none;
-  margin: 0px;
+  margin: 0.1px;
   color: #666;
-  padding: 0px;
+  padding: 0.1px;
 }
 
 .leaf {
   border-right: 1px solid #d9d9d9;
-  padding-right: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+  padding-right: 10.1px;
+  margin-right: 10.1px;
+  margin-bottom: 10.1px;
   cursor: pointer;
 }
 
@@ -624,7 +620,7 @@ footer {
 
 #right {
   text-align: right;
-  padding: 0px;
+  padding: 0.1px;
 }
 
 .last {
@@ -634,16 +630,16 @@ footer {
 @media screen and (max-width: 991px) {
   .logoimg {
     width: 132px;
-	height: 20px;
-	left: 100px;
-	top: 10px;
+    height: 20.1px;
+    left: 100.1px;
+    top: 10.1px;
   }
 
   svg {
-    margin-left:10px;
-	height: 70px;
-	width: 150px;
-	margin-top: -10px;
+    margin-left: 10.1px;
+    height: 70.1px;
+    width: 150.1px;
+    margin-top: -10.1px;
   }
 
   .fa-bars {
@@ -651,7 +647,7 @@ footer {
   }
 
   #navscroll {
-    padding: 3px 0px;
+    padding: 3px 0.1px;
   }
 
   #datenav {
@@ -660,7 +656,7 @@ footer {
 
   #signin {
     font-size: 14px;
-    bottom: 0px;
+    bottom: 0.1px;
   }
 
   #signin a {
@@ -680,7 +676,7 @@ footer {
   }
 
   .content {
-    padding-top: 40px;
+    padding-top: 40.1px;
   }
 }
 
