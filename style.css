@@ -296,7 +296,7 @@ h6 {
   max-width: 29px;
   height: 28px;
   background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/logo-n1.svg) center/contain
-  no-repeat #f72210;
+   no-repeat #f72210;
   margin-right: 10px;
 }
 
@@ -342,7 +342,7 @@ h6 {
   height: 14px;
   margin-left: 10px;
   background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg)
-  center/contain no-repeat;
+   center/contain no-repeat;
 }
 
 .part-title {
@@ -554,7 +554,7 @@ svg {
   font-size: 18px;
   font-weight: 600;
   width: 100%;
-  margin-top: 80px;	
+  margin-top: 80px;
 }
 
 #signin3 a {
@@ -572,7 +572,7 @@ footer {
   border-top: 2px solid #f4f5f6;
   background-color: #fff;
   padding-top: 30px;
-} 
+}
 
 .footer-top {
   padding-bottom: 20px;
@@ -608,7 +608,7 @@ footer {
   margin: 0px;
   color: #666;
   padding: 0px;
-} 
+}
 
 .leaf {
   border-right: 1px solid #d9d9d9;
@@ -632,59 +632,56 @@ footer {
 }
 
 @media screen and (max-width: 991px) {
-	.logoimg {
-	  width: 132px;
-	  height: 20px;
-	  left: 100px;
-	  top: 10px;	
-	}
+  .logoimg {
+	width: 132px;
+	height: 20px;
+	left: 100px;
+	top: 10px;
+  }
 
-	svg {
-	  margin-left:10px;
-	  height: 70px;
-	  width: 150px;
-	  margin-top: -10px;
+  svg {
+	margin-left:10px;
+	height: 70px;
+	width: 150px;
+	margin-top: -10px;
+  }
 
-	}
+  .fa-bars {
+	color: #fff;
+  }
 
-	.fa-bars {
-	  color: #fff;
-	}
+  #navscroll {
+	padding: 3px 0px;
+  }
 
-	#navscroll {
-	  padding: 3px 0px;
-	}
+  #datenav {
+	display: none;
+  }
 
-	#datenav {
-	  display: none;
-	}
+  #signin {
+	font-size: 14px;
+	bottom: 0px;
+  }
 
-	#signin {
-	  font-size: 14px;
-	  bottom: 0px;
-	}
+  #signin a {
+	padding: 6px;
+  }
 
-	#signin a {
-	  padding: 6px;
-	}
+  .fa-chevron-right {
+	display: none !important;
+  }
 
-	.fa-chevron-right {
-	  display: none !important;
-	}
+  .header-bottom {
+	display: none;
+  }  
 
-	/*nav bottom*/
-	.header-bottom {
-	  display: none;
-	}
+  #right-col {
+	margin: auto;
+  }
 
-	/*main*/
-	#right-col {
-	  margin: auto;
-	}
-
-	.content {
-	  padding-top: 40px;
-	}
+  .content {
+	padding-top: 40px;
+  }
 }
 
 @media (max-width: 767px) {
