@@ -41,10 +41,8 @@ carlb1319@gmail.com
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
-
 
