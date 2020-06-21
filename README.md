@@ -7,7 +7,7 @@ A simple project working with Bootstrap 4, HTML and CSS
 - Bootstrap 4
 - CSS
 
-### Clone Project
+### Install and Run the Project
 ```
     git clone git@github.com:Sick-Carlito/Bootstrap-project.git
 
@@ -35,6 +35,10 @@ A simple project working with Bootstrap 4, HTML and CSS
 
 #### Email
 carlb1319@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/carlb420/)
+
+- [Twitter](https://twitter.com/cbond_420)
 
 
 
